@@ -1,0 +1,14 @@
+.heroimage{
+    border-radius: 50%;
+    position: relative;
+    top:-10px;
+    right:10px;
+
+}
+.logos
+{
+    border: 5px solid yellow;
+    margin:0 auto;
+    margin-top:30px;
+    margin-left:20px;
+}
